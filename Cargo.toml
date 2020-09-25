@@ -1,0 +1,7 @@
+[workspace]
+
+members = [
+    "bf-blenloader",
+    "bf-dna",
+    "bf-dna-blenlib"
+]
